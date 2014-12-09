@@ -14,7 +14,7 @@ Protect WordPress login, registration and comment form with the new No CAPTCHA r
 
 A simple plugin for adding the new No CAPTCHA reCAPTCHA to WordPress login, registration and comment system to protect again spammers.
 
-== Features ==
+**Features**
 
 *   Option to activate CAPTCHA in either login, registration, comment or combination of two or all.
 *   Choose a theme for the CAPTCHA.
