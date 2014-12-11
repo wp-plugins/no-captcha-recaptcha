@@ -45,4 +45,7 @@ Any question? post it in the support forum.
 == Changelog ==
 
 = 1.0 =
+* Fixed header already sent error
+
+= 1.0 =
 * Initial commit
