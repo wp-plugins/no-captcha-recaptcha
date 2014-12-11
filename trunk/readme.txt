@@ -4,7 +4,7 @@ Donate link: https://flattr.com/submit/auto?user_id=tech4sky&url=http%3A%2F%2Fw3
 Tags: comments, spam, login, registration, captcha, recaptcha, spammers, bot
 Requires at least: 3.4
 Tested up to: 4.0.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
