@@ -1,5 +1,5 @@
 <?php
-
+ob_start();
 class Ncr_Settings_Page {
 
 	public static function initialize() {
