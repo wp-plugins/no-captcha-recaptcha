@@ -18,7 +18,11 @@ A simple plugin for adding the new No CAPTCHA reCAPTCHA by Google to WordPress l
 
 *   Option to activate CAPTCHA in either login, registration, comment or combination of two or all.
 *   Choose a theme for the CAPTCHA.
-*   Auto-detects the user's language
+*   Auto-detects the user's language.
+
+### See Also
+* **[ProfilePress](https://wordpress.org/plugins/ppress/)**: A shortcode based WordPress form builder that makes building custom login, registration and password reset forms stupidly simple. [More info here](http://profilepress.net)
+
 
 == Installation ==
 
